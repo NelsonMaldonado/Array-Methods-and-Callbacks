@@ -17,7 +17,7 @@ console.log('Task 1c', brazilFifa[0]['Home Team Goals']);
 console.log('Task 1d', brazilFifa[0]['Away Team Goals']);
 //(e) Winner of 2014 world cup final */
 console.log('Task 1e', brazilFifa[0]['Win conditions']);
-
+//done
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 Use getFinals to do the following:
